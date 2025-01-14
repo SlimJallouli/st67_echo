@@ -21,7 +21,7 @@ See [Common/kvstore](Common/kvstore/ReadMe.md) for details.
 ## Cloning the Repository
 To clone using HTTPS:
 ```
-git clone https://github.com/SlimJallouli/st67_echo.git
+git clone https://github.com/SlimJallouli/st67_echo.git --recurse-submodules
 ```
 
 ## CMSIS Packs
