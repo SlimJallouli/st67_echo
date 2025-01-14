@@ -1,0 +1,6 @@
+../Common/kvstore/kvstore_nv_littlefs.c:46:24:vLfsSSizeToErr	3
+../Common/kvstore/kvstore_nv_littlefs.c:63:30:xValidateFile	4
+../Common/kvstore/kvstore_nv_littlefs.c:84:12:xprvGetValueLengthFromImpl	2
+../Common/kvstore/kvstore_nv_littlefs.c:102:16:xprvReadValueFromImpl	11
+../Common/kvstore/kvstore_nv_littlefs.c:190:16:xprvWriteValueToImpl	7
+../Common/kvstore/kvstore_nv_littlefs.c:264:10:vprvNvImplInit	1

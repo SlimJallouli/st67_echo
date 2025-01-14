@@ -1,0 +1,4 @@
+../Src/echo.c:27:13:lwip_socket_send	72	static
+../Src/echo.c:79:13:vEchoReceiverTask	32	static
+../Src/echo.c:100:13:vEchoSenderTask	280	static
+../Src/echo.c:119:6:vEchoServerTask	72	static

@@ -1,0 +1,12 @@
+../Drivers/CMSIS/Include/core_cm33.h:2711:34:__NVIC_SystemReset	1
+../Common/cli/cli_utils.c:143:28:pceTaskStateToString	6
+../Common/cli/cli_utils.c:180:17:ulGetStackDepth	1
+../Common/cli/cli_utils.c:204:13:prvPSCommand	3
+../Common/cli/cli_utils.c:287:13:vSignalTask	4
+../Common/cli/cli_utils.c:312:21:xGetTaskHandleFromID	4
+../Common/cli/cli_utils.c:341:13:vKillCommand	7
+../Common/cli/cli_utils.c:384:13:vKillAllCommand	7
+../Common/cli/cli_utils.c:429:13:vHeapStatCommand	29
+../Common/cli/cli_utils.c:622:13:vResetCommand	0
+../Common/cli/cli_utils.c:631:13:vUptimeCommand	3
+../Common/cli/cli_utils.c:663:13:vAssertCommand	1

@@ -1,0 +1,7 @@
+../Common/cli/cli_main.c:85:12:FreeRTOS_CLIRegisterCommand	24	static
+../Common/cli/cli_main.c:127:43:prvFindMatchingCommand	32	static
+../Common/cli/cli_main.c:154:6:FreeRTOS_CLIProcessCommand	64	dynamic
+../Common/cli/cli_main.c:196:14:FreeRTOS_CLIGetParameter	32	static
+../Common/cli/cli_main.c:259:13:prvHelpCommand	40	static
+../Common/cli/cli_main.c:309:17:prvGetNumberOfArgs	24	static
+../Common/cli/cli_main.c:335:6:Task_CLI	24	static

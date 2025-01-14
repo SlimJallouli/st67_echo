@@ -1,0 +1,8 @@
+C:/Users/stred/OneDrive/Documents/Projects/QC/st67_echo/Libraries/fs/lfs_config.h:223:22:lfs_malloc	16	static
+C:/Users/stred/OneDrive/Documents/Projects/QC/st67_echo/Libraries/fs/lfs_config.h:233:20:lfs_free	16	static
+../Libraries/littlefs/bd/lfs_rambd.c:10:5:lfs_rambd_create	24	static
+../Libraries/littlefs/bd/lfs_rambd.c:44:5:lfs_rambd_destroy	24	static
+../Libraries/littlefs/bd/lfs_rambd.c:55:5:lfs_rambd_read	32	static
+../Libraries/littlefs/bd/lfs_rambd.c:75:5:lfs_rambd_prog	32	static
+../Libraries/littlefs/bd/lfs_rambd.c:95:5:lfs_rambd_erase	24	static
+../Libraries/littlefs/bd/lfs_rambd.c:110:5:lfs_rambd_sync	16	static

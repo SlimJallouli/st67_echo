@@ -1,0 +1,12 @@
+../Drivers/CMSIS/Include/core_cm33.h:2711:34:__NVIC_SystemReset	4	static,ignoring_inline_asm
+../Common/cli/cli_utils.c:143:28:pceTaskStateToString	24	static
+../Common/cli/cli_utils.c:180:17:ulGetStackDepth	24	static
+../Common/cli/cli_utils.c:204:13:prvPSCommand	96	static
+../Common/cli/cli_utils.c:287:13:vSignalTask	16	static
+../Common/cli/cli_utils.c:312:21:xGetTaskHandleFromID	40	static
+../Common/cli/cli_utils.c:341:13:vKillCommand	48	static
+../Common/cli/cli_utils.c:384:13:vKillAllCommand	48	static
+../Common/cli/cli_utils.c:429:13:vHeapStatCommand	112	static
+../Common/cli/cli_utils.c:622:13:vResetCommand	24	static
+../Common/cli/cli_utils.c:631:13:vUptimeCommand	80	static
+../Common/cli/cli_utils.c:663:13:vAssertCommand	24	static

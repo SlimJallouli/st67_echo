@@ -1,0 +1,11 @@
+../Common/kvstore/kvstore_cache.c:51:26:pvGetDataWritePtr	24	static
+../Common/kvstore/kvstore_cache.c:68:32:pvGetDataReadPtr	24	static
+../Common/kvstore/kvstore_cache.c:88:24:vAllocateDataBuffer	24	static
+../Common/kvstore/kvstore_cache.c:103:24:vClearDataBuffer	16	static
+../Common/kvstore/kvstore_cache.c:119:24:vReallocDataBuffer	16	static
+../Common/kvstore/kvstore_cache.c:137:10:vprvCacheInit	40	static
+../Common/kvstore/kvstore_cache.c:170:12:prvGetCacheEntryLength	16	static
+../Common/kvstore/kvstore_cache.c:181:24:prvGetCacheEntryType	16	static
+../Common/kvstore/kvstore_cache.c:195:16:xprvWriteCacheEntry	32	static
+../Common/kvstore/kvstore_cache.c:251:16:xprvCopyValueFromCache	48	static
+../Common/kvstore/kvstore_cache.c:292:16:KVStore_xCommitChanges	32	static

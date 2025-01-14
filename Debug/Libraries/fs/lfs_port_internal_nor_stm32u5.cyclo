@@ -1,0 +1,6 @@
+../Libraries/fs/lfs_port_internal_nor_stm32u5.c:58:12:lfs_port_read	3
+../Libraries/fs/lfs_port_internal_nor_stm32u5.c:76:12:lfs_port_prog	6
+../Libraries/fs/lfs_port_internal_nor_stm32u5.c:113:12:lfs_port_erase	3
+../Libraries/fs/lfs_port_internal_nor_stm32u5.c:143:12:lfs_port_sync	1
+../Libraries/fs/lfs_port_internal_nor_stm32u5.c:148:13:vPopulateConfig	3
+../Libraries/fs/lfs_port_internal_nor_stm32u5.c:220:31:pxInitializeInternalFlashFs	4

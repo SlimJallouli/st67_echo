@@ -1,0 +1,12 @@
+../Drivers/CMSIS/Include/core_cm33.h:2711:34:__NVIC_SystemReset	4	static,ignoring_inline_asm
+../Src/FreeRTOS/freertos_hooks.c:28:6:vApplicationGetTimerTaskMemory	24	static
+../Src/FreeRTOS/freertos_hooks.c:38:6:vApplicationGetIdleTaskMemory	24	static
+../Src/FreeRTOS/freertos_hooks.c:49:13:vApplicationIdleHook	8	static
+../Src/FreeRTOS/freertos_hooks.c:57:13:vApplicationMallocFailedHook	8	static
+../Src/FreeRTOS/freertos_hooks.c:64:13:vApplicationStackOverflowHook	24	static
+../Src/FreeRTOS/freertos_hooks.c:77:6:vDoSystemReset	8	static
+../Src/FreeRTOS/freertos_hooks.c:98:6:configureTimerForRunTimeStats	8	static
+../Src/FreeRTOS/freertos_hooks.c:105:15:getRunTimeCounterValue	16	static
+../Src/FreeRTOS/freertos_hooks.c:125:6:incrementIRQRunTime	16	static
+../Src/FreeRTOS/freertos_hooks.c:130:29:getIRQTimeCounterValue	4	static
+../Src/FreeRTOS/freertos_hooks.c:136:6:vPetWatchdog	4	static

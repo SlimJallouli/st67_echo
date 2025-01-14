@@ -1,0 +1,7 @@
+../Common/cli/logging.c:57:6:vDyingGasp	16	static
+../Common/cli/logging.c:85:13:vSendLogMessageEarly	16	static
+../Common/cli/logging.c:107:6:vInitLoggingEarly	8	static
+../Common/cli/logging.c:113:13:vSendLogMessage	32	static
+../Common/cli/logging.c:169:6:vLoggingInit	16	static
+../Common/cli/logging.c:176:6:vLoggingPrintf	60	static
+../Common/cli/logging.c:288:6:vLoggingDeInit	4	static

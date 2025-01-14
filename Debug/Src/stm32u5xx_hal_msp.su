@@ -1,0 +1,11 @@
+../Src/stm32u5xx_hal_msp.c:63:6:HAL_MspInit	16	static
+../Src/stm32u5xx_hal_msp.c:87:6:HAL_DCACHE_MspInit	24	static
+../Src/stm32u5xx_hal_msp.c:110:6:HAL_DCACHE_MspDeInit	16	static
+../Src/stm32u5xx_hal_msp.c:132:6:HAL_RNG_MspInit	224	static
+../Src/stm32u5xx_hal_msp.c:166:6:HAL_RNG_MspDeInit	16	static
+../Src/stm32u5xx_hal_msp.c:188:6:HAL_SPI_MspInit	248	static
+../Src/stm32u5xx_hal_msp.c:237:6:HAL_SPI_MspDeInit	16	static
+../Src/stm32u5xx_hal_msp.c:267:6:HAL_TIM_Base_MspInit	24	static
+../Src/stm32u5xx_hal_msp.c:290:6:HAL_TIM_Base_MspDeInit	16	static
+../Src/stm32u5xx_hal_msp.c:312:6:HAL_UART_MspInit	248	static
+../Src/stm32u5xx_hal_msp.c:363:6:HAL_UART_MspDeInit	16	static

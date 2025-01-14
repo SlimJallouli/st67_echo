@@ -1,0 +1,2 @@
+../Common/sys/hal_init.c:42:6:hw_init	16	static
+../Common/sys/hal_init.c:65:6:vRelocateVectorTable	8	static,ignoring_inline_asm

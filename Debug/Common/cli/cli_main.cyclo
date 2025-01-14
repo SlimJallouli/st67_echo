@@ -1,0 +1,7 @@
+../Common/cli/cli_main.c:85:12:FreeRTOS_CLIRegisterCommand	4
+../Common/cli/cli_main.c:127:43:prvFindMatchingCommand	5
+../Common/cli/cli_main.c:154:6:FreeRTOS_CLIProcessCommand	5
+../Common/cli/cli_main.c:196:14:FreeRTOS_CLIGetParameter	12
+../Common/cli/cli_main.c:259:13:prvHelpCommand	8
+../Common/cli/cli_main.c:309:17:prvGetNumberOfArgs	5
+../Common/cli/cli_main.c:335:6:Task_CLI	4

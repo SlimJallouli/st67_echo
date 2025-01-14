@@ -1,0 +1,3 @@
+../Common/sys/interrupt_handlers.c:43:6:GPIO_EXTI_Register_Callback	3
+../Common/sys/interrupt_handlers.c:58:6:HAL_GPIO_EXTI_Falling_Callback	1
+../Common/sys/interrupt_handlers.c:68:6:HAL_GPIO_EXTI_Rising_Callback	3
